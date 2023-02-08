@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main1 {
+  height:200px;
+  background-image: url(img/img/sunset.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.main2 {
+  height: 200px;
+  background-image: url(img/img/snow.jpg);
+  background-size: cover;
+ background-position: center;
+}
+
+.main3 {
+  height: 200px;
+  background-image: url(img/img/road.jpg);
+  background-size: cover;
+ background-position: center;
+}
+
+.main4 {
+  height: 200px;
+  background-image: url(img/img/mv.jpg);
+  background-size: cover;
+ background-position: center;
+}
