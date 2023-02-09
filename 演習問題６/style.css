@@ -1,0 +1,43 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+header {
+  height:400px;
+  width: 100%;
+  background-image: url(img/mv.jpg);
+  background-size:cover;
+  background-position: bottom;
+}
+
+.header-main {
+  padding:20px;
+}
+
+main {
+  width: 840px;
+  margin: 50px auto;
+}
+
+.main1 {
+  border-bottom:1px solid #d1d1d1;
+  padding-bottom: 30px;
+}
+
+.main2 {
+ border-bottom:1px solid #d1d1d1; 
+ padding:30px 0;
+}
+
+.main3 {
+ border-bottom:1px solid #d1d1d1; 
+ padding:30px 0;
+}
+
+.main4 {
+ border-bottom:1px solid #d1d1d1; 
+ padding:30px 0;
+}
+  
